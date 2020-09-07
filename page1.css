@@ -1,0 +1,52 @@
+.container-fluid{
+    background-color: black;
+    color: white;
+    border-radius: 10px 10px 0 0;
+}
+.column{
+    text-align: center;
+    padding: 20px;
+}
+.gg{
+    background-color: lightgray;
+    text-align: center;
+    font-size: 120px;
+    border-radius: 2px;
+    padding: 50px;
+    margin-top: 50px;
+}
+.jj{
+    margin-top: 50px;
+    text-align: justify;
+    padding: 20px;
+    border: 2px black;
+}
+.yt{
+    margin-top: 20px;
+    background-color: lightblue;
+    padding: 45px;
+    text-align: center;
+    border-radius: 3px;
+}
+.mr{
+    border: 1px solid black;
+    border-radius: 2px;
+    margin: 35px 31px 0 0;
+    padding: 20px;
+}
+.mm{
+    border: 1px solid black;
+    border-radius: 2px;
+    margin: 0 31px 25px 0;
+    padding: 20px;
+    background-color: lightgray;
+}
+.be{
+    background-color: black;
+    text-align: center;
+    padding: 25px;
+    font-style: italic;
+}
+.yg{
+    border-radius: 0 0 20px 20px;
+}
